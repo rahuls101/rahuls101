@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**rahuls101/rahuls101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
 - 🔭 I’m currently working on ... Software Engineering, AT1
 - 🌱 I’m currently learning ... Benefits of secure code and how to write it 
@@ -11,4 +8,4 @@
 - 📫 How to reach me: ... email
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I have a typing speed of 120 WPM on average 
--->
+
