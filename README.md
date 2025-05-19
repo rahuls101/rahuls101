@@ -1,6 +1,6 @@
 ## Hi, I'm Rahul👋
 
-🧑‍🎓 Student at William Clarke College </br>
+🧑‍🎓 Year 12 Student at William Clarke College </br>
 
 
 ## 🌐 Socials:
